@@ -1,0 +1,12 @@
+Exercicios Aula 04 ## Curso Python
+
+"MaRIA SaIU DE CaSa, PaRa COMPRaR PaO."
+
+1. - Deixe o texto todo em minusculo - ok
+2. - Dexie o texto todo em maiusculo - ok
+3. - Deixe apenas a primeira letra em maiusculo - ok
+4. - Remova os espaços em branco do texto - F {Função .strip()}
+5. - Substitua "Maria" por "Julia" - ok
+6. - Indique a quantidade de caracteres na frase - F {Função(len()}
+7. - Adicione uma quebra de linha após a virgula.  - ok
+8. - Deixe a palavra "pao"destacada por aspas - F {\"texto\"}
