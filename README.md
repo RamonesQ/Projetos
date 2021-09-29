@@ -1,2 +1,2 @@
 # Projetos
- Primeiro repositrio
+ Primeiro repositório
