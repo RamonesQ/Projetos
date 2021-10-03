@@ -1,0 +1,64 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    text-align: center;
+    background-image: url("https://www.pixel4k.com/wp-content/uploads/2021/04/john-wick-neon-with-gun-4k_1618165824-2048x1152.jpg");
+    background-color: #000000;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  
+  
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  
+  body > img {
+    margin: 0 10px;
+  }
+  
+  img {
+    max-height: 250px;
+    border-radius: 5px;
+    position: flex;
+  }
+  
+  
+  
+  button {
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #paragrafo {
+    background-color: rgba(215, 220, 216, 0.3);
+    border-radius: 10px;
+    padding: 2px, 2px;}

@@ -1,0 +1,20 @@
+var listaFilmes = [
+  "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+  "https://i.pinimg.com/originals/c9/82/8a/c9828a475f549cdddcc6faa64408cf28.jpg",
+  "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+];
+
+for (var i = 0; i < listaFilmes.length; i++) {
+  document.write("<img src=" + listaFilmes[i] + ">");
+}
+
+function inserir() {
+  var inserir = String(document.getElementById("buscar").value);
+  document.getElementById("novaImagem").innerHTML =
+    "<img class'bloco' src=" + inserir + ">";
+
+  document.getElementById("buscar").value = "";
+  if (inserir == "") {
+    document.getElementById("novaImagem").innerHTML = "Insira uma URL válida";
+  }
+}

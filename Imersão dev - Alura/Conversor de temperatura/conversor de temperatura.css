@@ -1,0 +1,38 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 250px;
+    background-image: url('https://image.flaticon.com/icons/png/512/201/201635.png');
+  
+  
+    background-color: #568762;
+    background-size: 45vh;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: left;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color:#ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:#ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 150px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+  }
