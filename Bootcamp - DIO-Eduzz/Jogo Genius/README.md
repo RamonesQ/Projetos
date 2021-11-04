@@ -1,5 +1,11 @@
-# Projetos acadêmicos
- 
- Primeiro repositório
+Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
 
-Repositório para armazenamento de exercícios e projetos de estudo
+### Os requisitos são:
+
+* [HTML básico](https://www.w3schools.com/html/)
+* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+* [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+ 
+
+
+## 🚀 Let's code! 🚀
