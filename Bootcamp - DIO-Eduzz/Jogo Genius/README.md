@@ -1,4 +1,6 @@
-Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simples jogo Gênesis com apenas algumas linhas de código! 
+## 🚀 Let's code! 🚀
+
+Esse é o repositório da aula 'Criando seu jogo de memória estilo Geniust', na qual aprendi a fazer um simples jogo Gênesis com apenas algumas linhas de código! 
 
 ### Os requisitos são:
 
@@ -6,6 +8,3 @@ Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um simpl
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 * [Javascript básico](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
  
-
-
-## 🚀 Let's code! 🚀
