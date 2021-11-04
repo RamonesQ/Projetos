@@ -1,5 +1,4 @@
 # Projetos acadêmicos
  
- Primeiro repositório
+Neste repositorio arquivarei meus primeiros codigos feitos como exercicios ou seguindo tutorias.
 
-Repositório para armazenamento de exercícios e projetos de estudo
